@@ -852,7 +852,7 @@ class TableContainer extends Container {
   }
 }
 TableContainer.blotName = "table-container"
-TableContainer.className = "quill-better-table"
+TableContainer.className = "quill-better-table table table-bordered"
 TableContainer.tagName = "TABLE"
 
 class TableViewWrapper extends Container {
